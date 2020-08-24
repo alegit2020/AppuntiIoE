@@ -1,0 +1,5 @@
+protocolli IoT  !!!
+https://www.avsystem.com/blog/iot-protocols-and-standards/
+
+https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
+https://tools.ietf.org/html/rfc7595
